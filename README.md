@@ -6,4 +6,4 @@ I love honing old skills and learning new ones, and I'm willing to collaborate o
 
 If you need me, reach out to: fogeljonathan@gmail.com
 
-If you'd like to see more about me, visit my [personal page.](fogeljonathan.github.io/)
+If you'd like to see more about me, visit my [personal page.](https://fogeljonathan.github.io/)
