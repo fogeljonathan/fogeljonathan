@@ -9,3 +9,5 @@ Languages: Julia, Python, HTML\CSS, MATLAB, Git, R, Latex
 If you need me, reach out to: fogeljonathan@gmail.com
 
 If you'd like to see more about me, visit my [personal page.](https://fogeljonathan.github.io/)
+
+Current Staff Member at The MIT Lincoln Laboratory.
