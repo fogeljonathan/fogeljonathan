@@ -1,8 +1,10 @@
-I’m @fogeljonathan, but my you can call me.. um... Jonathan Fogel...
+I’m @fogeljonathan, but my you can call me Jonathan Fogel
 
-I’m interested in physics, mathematical patterns, games, and playing music (including :guitar: :violin: :saxophone:)!
+I’m interested in Package Development, Physics, Mathematical Patterns, Games, and Playing Music (including :guitar: :violin: :saxophone:)!
 
 I love honing old skills and learning new ones, and I'm willing to collaborate on just about any project as a result.
+
+Languages: Julia, Python, HTML\CSS, MATLAB, Git, R, Latex
 
 If you need me, reach out to: fogeljonathan@gmail.com
 
