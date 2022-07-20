@@ -9,5 +9,5 @@
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fogeljonathan&show_icons=true" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogeljonathan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogeljonathan&exclude_repo=Diamond-Analysis-in-R" />
 </p>
