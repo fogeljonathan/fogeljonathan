@@ -1,11 +1,11 @@
 <p align="center">
-  <b>I’m @fogeljonathan, but my you can call me Jonathan Fogel. I’m interested in Package Development, Physics, Mathematical Patterns, Games, and Playing :guitar:!</b><br>
+  <b>I’m @fogeljonathan, but my you can call me Jonathan, Jon, Fogel, J-Money, or whatever you like, really. I’m from the Philadelphia Suburbs in Delaware County, and am interested in Rock Climbing, FromSoft Games, and Playing :guitar:! ...but that's probably not why you are here.</b><br>
   <br><br>
-  </b>Current Staff Member at The MIT Lincoln Laboratory.<br>
+  </b>I hold a Bachelor's degree in both Physics and Mathematics, and am a Current Staff Member at The MIT Lincoln Laboratory.<br>
   <br><br>
   </b>Proficient Languages: Julia, Python, HTML\CSS, MATLAB, Git, R, C++, Latex<br>
   <br><br>
-  </b>If you need me, reach out to: fogeljonathan@gmail.com . If you'd like to see more about me, visit my <a href="https://fogeljonathan.github.io">personal page. </a><br>
+  </b>If you need me, reach out to: fogeljonathan@gmail.com . If you'd like to see more about me, visit my <a href="https://fogeljonathan.github.io">personal page. Information about my repositories and about my StackOverflow can be found below.</a><br>
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fogeljonathan&show_icons=true" />
   <br><br>
