@@ -10,4 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fogeljonathan&show_icons=true" />
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogeljonathan&exclude_repo=Diamond-Analysis-in-R" />
+  <br><br>
+  <img align = "center" href="https://stackoverflow.com/users/19641151/jon-f"><img src="https://stackoverflow.com/users/flair/19641151.png?theme=dark" width="208" height="58" alt="profile for Jon F at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jon F at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></img>
 </p>
