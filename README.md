@@ -5,7 +5,7 @@
   <br><br>
   </b>Proficient Languages: Julia, Python, HTML\CSS, MATLAB, Git, R, C++, Latex<br>
   <br><br>
-  </b>If you need me, reach out to: fogeljonathan@gmail.com . If you'd like to see more about me, visit my <a href="https://fogeljonathan.github.io">personal page. Information about my repositories and about my StackOverflow can be found below.</a><br>
+  </b>If you need me, reach out to: fogeljonathan@gmail.com . If you'd like to see more about me, visit my <a href="https://fogeljonathan.github.io">personal page</a>. Information about my repositories and about my StackOverflow can be found below.<br>
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fogeljonathan&show_icons=true" />
   <br><br>
