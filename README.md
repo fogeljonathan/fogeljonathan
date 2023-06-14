@@ -8,8 +8,7 @@
   </b>If you need to reach me, you can find me at: fogeljonathan@gmail.com . If you'd like to see more about me, visit my <a href="https://fogeljonathan.github.io">personal page</a>. Information on my public contributions can be found below.
   <br><br>
   <!--- abc --->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fogeljonathan&show_icons=true" width="500"/>
-  <br><br>
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogeljonathan&layout=compact&exclude_repo=Diamond-Analysis-in-R" width="500"/>
   <br><br>
   <img width="500px" src="https://stackoverflow-card.vercel.app/?userID=19641151&theme=light"/>
