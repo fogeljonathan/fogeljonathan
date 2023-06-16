@@ -1,5 +1,5 @@
 <p align="center">
-  I’m @fogeljonathan, but my you can call me Jonathan, Jon, J-Money, or whatever you like, really. I’m from the Delaware County, a Philadelphia suburb, but now Live in Boston, MA. My hobbies include Climbing, Jiu Jitsu, Gaming, and Playing :guitar: ... but that's probably not why you are here.
+  I’m @fogeljonathan, but my you can call me Jonathan, Jon, J-Money, or whatever you like, really. I’m from the Philadelphia suburbs, but now Live in Boston, MA. My hobbies include Climbing, Jiu Jitsu, Gaming, and Playing :guitar: ... but that's probably not why you are here.
   <br><br>
   </b>I hold a Bachelor's degree from Franklin and Marshall College, where I double-majored in Physics and Mathematics, and am a Current Staff Member at The MIT Lincoln Laboratory.
   <br><br>
