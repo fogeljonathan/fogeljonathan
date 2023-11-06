@@ -14,7 +14,7 @@
   <img width="500px" src="https://stackoverflow-card.vercel.app/?userID=19641151&theme=light"/>
   <br><br>
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/fogeljonathan?theme=light&ext=heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/fogeljonathan?theme=light"/>
   </a>
 </p>
 
